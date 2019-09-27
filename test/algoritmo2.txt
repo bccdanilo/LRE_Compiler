@@ -1,0 +1,11 @@
+enquanto (1 > 0){
+saida7 = 255;
+saida8 = 255;
+saida9 = 255;
+espera(1000);
+
+saida7 = 0;
+saida8 = 0;
+saida9 = 0;
+espera(1000);
+}

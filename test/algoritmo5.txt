@@ -1,0 +1,21 @@
+x=0;
+
+quando porta1 esta caindo{
+	x = (x - 1) * (0 - 1);
+}
+
+enquanto (1>0){
+
+se (x == 0){
+	saida8 = 255;
+	saida9 = 255;
+	saida7 = 255;
+}senao{
+	saida8 = 0;
+	saida9 = 0;
+	saida7 = 0;
+}
+
+
+
+}

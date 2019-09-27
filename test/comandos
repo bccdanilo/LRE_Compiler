@@ -1,0 +1,389 @@
+    1  sudo apt-get install flex
+    2  sudo su
+    3  sudo apt-get install flex
+    4  sudo apt-get install bison
+    5  ls
+    6  cd Desktop/
+    7  ls
+    8  cd small_bin_compiler/
+    9  make
+   10  ./parser teste.txt 
+   11  which flex
+   12  ls
+   13  cd Desktop/
+   14  ls
+   15  small_bin_compiler/
+   16  cd small
+   17  cd small_bin_compiler/
+   18  make
+   19  ./parse teste.txt 
+   20  /.parse teste.txt 
+   21  make
+   22  cd Desktop/
+   23  ls
+   24  cd small_bin_compiler/
+   25  make
+   26  ./parser teste.txt 
+   27  gedit
+   28  cd Desktop/
+   29  ls
+   30  cd 0205/
+   31  ls
+   32  flex calc.l
+   33  bison -d calc.y
+   34  flex calc.l
+   35  bison -d calc.y
+   36  gcc *.c -o calc
+   37  cd Desktop/
+   38  ls
+   39  cd 0205/
+   40  ls
+   41  flex calc.l
+   42  bison -d calc.y
+   43  gcc *.c -o calc
+   44  shutdown now
+   45  flex calc.l
+   46  wich flex
+   47  with flex
+   48  which flex
+   49  flex
+   50  flex -h
+   51  flex -v
+   52  flex -V
+   53  flex calc.l
+   54  bison -d calc.y
+   55  bison - help
+   56  bison -help
+   57  bison -V
+   58  cd Desktop/
+   59  sudo vim /etc/apt/sources.list
+   60  sudo
+   61  sudo apt-get install vim-y
+   62  sudo apt-get install vim -y
+   63  sudo vim /etc/apt/sources.list
+   64  wget -O - https://apt.llvm.org/llvm-snapshot.gpg.key | sudo apt-key add -
+   65  sudo apt-add-repository "deb http://apt.llvm.org/xenial/ llvm-toolchain-xenial-6.0 main"
+   66  sudo apt-get update
+   67  wget -O - https://apt.llvm.org/llvm-snapshot.gpg.key
+   68  sudo apt-key add
+   69  wget -O - https://apt.llvm.org/llvm-snapshot.gpg.key | sudo apt-key add
+   70  sudo apt-add-repository "deb http://apt.llvm.org/xenial/ llvm-toolchain-xenial-6.0 main"
+   71  sudo apt-get update
+   72  sudo apt-get install -y clang-6.0
+   73  git
+   74  clang
+   75  sudo vim /etc/apt/sources.list
+   76  update-alternatives --install /usr/bin/clang clang /usr/bin/clang-6.0 1000
+   77  sudo update-alternatives --install /usr/bin/clang clang /usr/bin/clang-6.0 1000
+   78  sudo update-alternatives --config clang
+   79  clang
+   80  sudo apt-get install git
+   81  sudo apt-get install update
+   82  sudo su
+   83  cd Desktop/
+   84  ls
+   85  cd trabalho/
+   86  ls
+   87  mv robcmp novonomecompilador
+   88  ls
+   89  mv novonomecompilador 0C0MP1L4D0R
+   90  ls
+   91  cd 0C0MP1L4D0R/
+   92  ls
+   93  git checkout master
+   94  git branch -d arm2018
+   95  git checkout arm2018
+   96  make
+   97  git pull --rebase
+   98  git stash 
+   99  git config --global user.email "you@example.com"
+  100  git config --global user.email "thedanilomr@gmail.com"
+  101  git config --global user.name "Danilo"
+  102  git pull --rebase
+  103  git config --global user.email "thedanilomr@gmail.com"
+  104  git config --global user.name "Danilo"
+  105  git config --global "thedanilomr@gmail.com"
+  106  git config --global user.email "thedanilomr@gmail.com"
+  107  git config --global user.name "Danilo"
+  108  git stash 
+  109  git stash pop
+  110  make
+  111  git stash 
+  112  git stash pop
+  113  cd 0C0MP1L4D0R/
+  114  ls
+  115  cd 2017
+  116  ls
+  117  cd ..
+  118  teste
+  119  test
+  120  ./0C0MP1L4D0R 
+  121  make
+  122  cd 2018
+  123  cd 2018arm/
+  124  ls
+  125  cd ..
+  126  makefile
+  127  make
+  128  cd ..
+  129  ls
+  130  make
+  131  cd 0C0MP1L4D0R/
+  132  ls
+  133  clang -version
+  134  clang -V
+  135  clang -v
+  136  cd..
+  137  cd ..
+  138  make
+  139  git stash pop
+  140  cd..
+  141  cd ..
+  142  git checkout master
+  143  git checkout arm2018
+  144  git checkout master
+  145  git --help
+  146  git checkout master
+  147  cd 2018arm/
+  148  git stash 
+  149  git config --global user.email "thedanilomr@gmail.com"
+  150  git stash 
+  151  sudo su
+  152  git checkout arm2018
+  153  sudo su
+  154  make
+  155  cat stepper
+  156  cat "stepper"
+  157  grep 'stepper'
+  158  cd ..
+  159  make
+  160  clear
+  161  mak
+  162  make
+  163  sudo su
+  164  git checkout arm2018
+  165  git clone https://github.com/thborges/arm:
+  166  git checkout https://github.com/thborges/arm:
+  167  git checkout https://github.com/thborges/robcmp.git
+  168  ls
+  169  cd robcmp/
+  170  git checkout arm2018
+  171  ls
+  172  make
+  173  clear
+  174  make
+  175  git checkout arm2018
+  176  sudo su
+  177  make
+  178  clear
+  179  make
+  180  clear
+  181  make
+  182  clear
+  183  make
+  184  clear
+  185  make
+  186  clear
+  187  make
+  188  clear
+  189  make
+  190  clear
+  191  make
+  192  clear
+  193  make
+  194  clear
+  195  make
+  196  clear
+  197  make
+  198  cat rob.y
+  199  clear
+  200  make
+  201  clear
+  202  make
+  203  clear
+  204  make
+  205  clear
+  206  make
+  207  sudo su
+  208  exiyt
+  209  exit
+  210  sudo su
+  211  make
+  212  sudo su
+  213  git checkout
+  214  cd ..
+  215  git clone /thborges/robcmp
+  216  git clone git://github.com/thborges/robcmp
+  217  git clone http://github.com/thborges/robcmp
+  218  git clone http://github.com/thborges/robcmp/
+  219  mkdir PFC
+  220  cd PFC
+  221  git clone http://github.com/thborges/robcmp/
+  222  git checkout arm2018
+  223  git checkout arm2018/
+  224  sudo su
+  225  gitcheckout
+  226  git checkout
+  227  clear
+  228  cd PFC/
+  229  ls
+  230  cd robcmp/
+  231  ls
+  232  sudo su
+  233  sudo make
+  234  make
+  235  sudo su
+  236  cd robcmp/
+  237  clear
+  238  sudo su
+  239  close
+  240  clear
+  241  sudo su
+  242  git clone http://github.com/thborges/robcmp/
+  243  cd robcmp
+  244  git clone http://github.com/thborges/robcmp/
+  245  sudo git clone http://github.com/thborges/robcmp/
+  246  sudo git checkout arm2018
+  247  git clone
+  248  git checkout arm2018/
+  249  sudo git checkout arm2018/
+  250  sudo git checkout arm2018
+  251  ls
+  252  clear
+  253  sudo su
+  254  git checkout
+  255  sudo git checkout
+  256  git checkout arm2018
+  257  sudo git checkout arm2018
+  258  sudo git checkout master
+  259  sudo gitcheckout arm2018
+  260  sudo git checkout arm2018
+  261  git checkout arm2018
+  262  sudo git checkout arm2018
+  263  clear
+  264  sudo su
+  265  cd Desktop/
+  266  çs
+  267  ls
+  268  clear
+  269  cd trabalho/
+  270  cd robcmp/
+  271  git checkout arm2018
+  272  sudo git checkout arm2018
+  273  git checkout master
+  274  sudo su
+  275  cd /
+  276  ls
+  277  cd bin/
+  278  ls
+  279  cd ..
+  280  cd Des
+  281  exit
+  282  grep 'llvm source'
+  283  grep -R "llvm source"
+  284  history
+  285  sudo su
+  286  clear
+  287  history
+  288  history
+  289  cd Documents/
+  290  ls
+  291  cd llvm\ source/
+  292  ls
+  293  cd Documents
+  294  cd ..
+  295  mv llvm\ source/ llvmsource
+  296  ls
+  297  llvmsource/
+  298  cd llvmsource/
+  299  ls
+  300  cd build/
+  301  make -j3
+  302  sudo su
+  303  clear
+  304  make -j3
+  305  grep -R "llvm source"
+  306  make
+  307  history | grep CMAKE
+  308  history
+  309  clear
+  310  grep -R "llvm source"
+  311  clear
+  312  cd CMakeFiles/
+  313  grep -R "llvm source"
+  314  cd ..
+  315  ls
+  316  cd yaml-bench/
+  317  grep -R "llvm source"
+  318  cd ..
+  319  cd TableGen/
+  320  grep -R "llvm source"
+  321  ls
+  322  clear
+  323  grep -R "llvm source"
+  324  clear
+  325  grep -R "llvm source"
+  326  grep -R "llvm \source"
+  327  cd ..
+  328  ls
+  329  cd unittest/
+  330  grep -R "llvm \source"
+  331  grep -R "llvm source"
+  332  echo "llvm source"
+  333  echo "llvm source" | sed s/"llvm source"/source
+  334  echo "llvm source" | sed 's/"llvm source"/source'
+  335  echo "llvm source" | sed 's/llvm/source'
+  336  echo "llvm source" | sed s/llvm/source
+  337  sed -help
+  338  echo "llvm source" | sed /llvm/source
+  339  echo "llvm source" | sed llvm/source
+  340  clear
+  341  echo llvm  | sed s/llvm/source
+  342  echo llvm  | sed 's/llvm/source'
+  343  echo llvm  | sed s'/llvm/source'
+  344  cd Desktop/trabalho/PFC/PFC2/test/
+  345  make out/p1
+  346  vim Makefile 
+  347  ls
+  348  ln ../PFC2 
+  349  ln -s ../PFC2 
+  350  ls
+  351  make out/p1
+  352  mkdir out
+  353  make out/p1
+  354  which llc
+  355  vim Makefile 
+  356  make out/p1
+  357  make clean
+  358  make out/p1
+  359  vim Makefile 
+  360  cd ../
+  361  cd arduinowire/
+  362  make
+  363  sudo apt-get install avr-gcc avrdude
+  364  sudo apt-get install avrgcc avrdude
+  365  avr-gcc
+  366  sudo apt-get install gcc-avr avrdude
+  367  make
+  368  ls
+  369  find /usr -name avr
+  370  find /usr -name io.h
+  371  find /usr -name avr
+  372  ls /usr/lib/avr/
+  373  sudo apt-get install avr-libc 
+  374  make
+  375  cd ../test/
+  376  ls
+  377  make out/p1
+  378  cd ../2018arm/
+  379  ls
+  380  make
+  381  gedit Makefile 
+  382  make
+  383  ls ../arduinowire/
+  384  vim ../arduinowire/Arduino.h 
+  385  make
+  386  cd ../test/
+  387  make out/p1
+  388  history
+  389  history > comandos

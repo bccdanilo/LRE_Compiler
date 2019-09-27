@@ -1,0 +1,34 @@
+x = 0;
+saida8 = 255;
+saida9 = 255;
+
+
+
+
+quando porta1 esta crescendo {	
+		x = (x - 1) * (0 - 1);
+}
+
+
+
+
+
+enquanto(1 > 0){
+
+	saida7 = 255;
+	espera(500);
+	saida7 = 0;
+	espera(500);
+
+	
+
+	se(x == 0){
+		saida8 = 255;
+		saida9 = 255;
+	}senao{
+		saida8 = 0;
+		saida9 = 0;
+	}
+
+}
+
